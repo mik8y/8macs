@@ -6,7 +6,7 @@
         ;; (left . 700)
         ;; (cursor-type . bar)
         (cursor-color . "red")
-        (font . "Monaco-10")
+        (font . "Monaco-11")
         (alpha 100 100)
         (horizontal-scroll-bars . nil)
         (vertical-scroll-bars . nil)

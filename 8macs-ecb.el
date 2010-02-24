@@ -6,11 +6,15 @@
 (setq ecb-source-path
       '(
         ("~/8macs" "8macs")
+        ("~/Documents/w8" "w8")
+        ("~/w8pace" "w8pace")
+        ("~/Temp" "Temp")
         ("~/Documents/Developer/tfmvn/ThinkFreeOffice" "ThinkFreeOffice Maven")
         )
+      ecb-vc-enable-support t
       )
 (setq ecb-tip-of-the-day nil
-      ecb-auto-activate t
+      ecb-auto-activate nil
       ecb-layout-name "left13"
       ecb-fix-window-size 'width
       ecb-primary-secondary-mouse-buttons 'mouse-1--C-mouse-1

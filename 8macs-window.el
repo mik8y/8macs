@@ -4,7 +4,7 @@
   (mouse-wheel-mode t)
   (blink-cursor-mode -1)
   (scroll-bar-mode -1)
-  (global-hl-line-mode)
+  (setq global-hl-line-mode nil)
   (set-face-font 'modeline "Helvetica-11")
   )
 

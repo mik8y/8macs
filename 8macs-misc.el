@@ -26,6 +26,7 @@
       mouse-yank-at-point t
       require-final-newline t
       truncate-partial-width-windows nil
+      default-tab-width 4
       ;; making buffer names unique
       uniquify-buffer-name-style 'forward
       ;; uniquify-buffer-name-style 'post-forward
